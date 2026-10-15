@@ -1,0 +1,21 @@
+# vs code extensions pdf
+# Notes ppt
+1. heading.html
+2. para.html
+3. text_format.html
+4. anchor.html
+5. entities.html
+6. img.html`
+7. picture.html
+8. figure.html
+9. lists.html
+10. table.html
+11. iframe.html
+12. audiotag.html
+13. videotag.html
+14. form(folder)
+        i. form.html
+        ii. attr.html
+        iii. advancedform.html
+15. semantic.html
+16. main_project.html 
